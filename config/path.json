@@ -1,0 +1,5 @@
+{
+  "traffic_crash_data_path": "/Users/abhayrajendradixit/Documents/Assignments and Projects/Projects/Data Cleaning Project/Traffic_Crashes.csv",
+  "redlight_data_path": "/Users/abhayrajendradixit/Documents/Assignments and Projects/Projects/Data Cleaning Project/Red_Light_Camera_Violations.csv",
+  "speed_violations_data_path": "/Users/abhayrajendradixit/Documents/Assignments and Projects/Projects/Data Cleaning Project/Speed_Camera_Violations.csv"
+}
